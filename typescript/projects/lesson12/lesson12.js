@@ -1,0 +1,1 @@
+let myarr = ['onizuka', 'try hard', 25]
